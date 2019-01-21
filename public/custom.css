@@ -1,0 +1,59 @@
+/* test*/
+body{
+text-align:center;
+  background-color: 	#2D3E50;
+  font: 'Noto Sans', sans-serif;
+}
+div
+{
+	text-align:center;
+
+}
+input[type=text] {
+  border: 1px solid #22DDB4;
+  border-radius: 2px;
+}
+input[type=number] {
+  border: 1px solid #22DDB4;
+  border-radius: 2px;
+}
+h5
+{
+  shadow: 0 0 20px rgba(0, 0, 0, .2);
+color:#22DDB4;
+	text-align:center;
+	font-size: 150%;
+
+}
+
+h1 {
+  box-shadow: 0 0 20px rgba(0, 0, 0, .2);
+  text-align:center;
+  border: 3px solid #22DDB4;
+  color:#22DDB4;
+  font: 'Noto Sans', sans-serif;
+  font-size: 300%;
+}
+#checklab{
+
+color:#22DDB4;
+}
+#actors
+{
+
+color:#22DDB4;
+}
+#compute{
+  background-color: #2D3E50;
+  border: 2px solid #22DDB4; 
+  color:#22DDB4;
+  padding: 13px 55px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 8px;
+}
+
